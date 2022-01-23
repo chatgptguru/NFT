@@ -150,7 +150,7 @@ if (provider) {
         params: [
           {
             from: window.ethereum.selectedAddress,
-            to: "0x7AACFd4E64244b61a20Cd008D30C6C27B16a3556",
+            to: "0x2C4DC188759bA5eA40320004134130c5fbb6CC01",
             value: (price * 1e18).toString(16),
           },
         ],
